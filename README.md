@@ -13,6 +13,7 @@ ___________
 ### How to use
 
 ### Photos of project:
+![](/public/react_responsivesite.png)
 
 ### Apps used:
 
