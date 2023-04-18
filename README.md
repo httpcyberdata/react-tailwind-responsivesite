@@ -30,4 +30,4 @@ ___________
 ### Coding styles I used:
 
 ### What I learned
-1. Learned how the Typed component of the react-typed module works to create the typing animation effect. Instead of writing one from scratch there's a component for it.
+1. 
