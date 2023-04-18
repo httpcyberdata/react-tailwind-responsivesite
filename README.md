@@ -7,16 +7,27 @@ ___________
 ### Software versions
 
 ### Problems in the project:
-1.
+1. 
 2.
 
 ### How to use
+1. clone / download
+2. npm install
+3. yarn start
 
 ### Photos of project:
 ![](/public/react_responsivesite.png)
+![](/public/react_responsivesite_1.png)
+![](/public/react_responsivesite_2.png)
+![](/public/react_responsivesite_3.gif)
+
 
 ### Apps used:
+1. Visual Studio Code or (coder slang: VS Code)	[](https://code.visualstudio.com/)
+2. Google Chrome: [https://www.google.com/chrome/dr/download/](https://www.google.com/chrome/dr/download/)
+3. GitHub CLI: [https://cli.github.com/](https://cli.github.com/) 
 
 ### Coding styles I used:
 
 ### What I learned
+1. Learned how the Typed component of the react-typed module works to create the typing animation effect. Instead of writing one from scratch there's a component for it.
