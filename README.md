@@ -7,7 +7,17 @@ ___________
 ### Software versions
 
 ### Problems in the project:
-1. 
+1. Couldn't get pricing tiers to scale upon hover
+    I wrote the wrong syntax for hover scale setting in Tailwind CSS
+    incorrect:
+    ```
+       class="hover:scale(105)"
+    ```
+    correct:
+    ```
+        class="hover:scale-105"
+    ```
+
 2.
 
 ### How to use
