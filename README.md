@@ -27,6 +27,7 @@ ___________
 
 ### Photos of project:
 ![](/public/react_responsivesite.png)
+![](/public/react_responsivesite_4.png)
 ![](/public/react_responsivesite_1.png)
 ![](/public/react_responsivesite_2.png)
 ![](/public/react_responsivesite_3.gif)
